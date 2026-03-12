@@ -26,7 +26,7 @@ All files are plain text / images — **no executables, no installers, no modifi
 **Tip**: Create a backup of your current scenes before importing new ones (Scene Collection → Duplicate).
 
 <div align="center">
-  <a href="" target="_blank" rel="noopener">
+  <a href="https://obs-gaming-scene-presets.github.io/OBS-Gaming/" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/Access_NOW-00A2FF?style=for-the-badge&logo=github&logoColor=white&labelColor=24292F"
          alt="Access Community Resources" width="350"
          style="border-radius:8px;" />
